@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 Through Email we can connect with each other.
 - 😄 Pronouns: Developer
-- ⚡ Fun fact: I'm also try to become a full stack developer.
+- ⚡ Fun fact: I'm also trying to become a full stack developer.
 
 <!---
 sv99475/sv99475 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
